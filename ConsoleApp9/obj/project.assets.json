@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Practicas\\C-SHARP\\Juego4\\ConsoleApp9\\ConsoleApp9.csproj",
+      "projectUniqueName": "D:\\05_GitRepo\\Snake\\ConsoleApp9\\ConsoleApp9.csproj",
       "projectName": "ConsoleApp9",
-      "projectPath": "E:\\Practicas\\C-SHARP\\Juego4\\ConsoleApp9\\ConsoleApp9.csproj",
+      "projectPath": "D:\\05_GitRepo\\Snake\\ConsoleApp9\\ConsoleApp9.csproj",
       "packagesPath": "C:\\Users\\Shiki\\.nuget\\packages\\",
-      "outputPath": "E:\\Practicas\\C-SHARP\\Juego4\\ConsoleApp9\\obj\\",
+      "outputPath": "D:\\05_GitRepo\\Snake\\ConsoleApp9\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\01 Archivos de Programas 2\\CacheVS2019\\NuGetPackages"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
       }
     }
   }
