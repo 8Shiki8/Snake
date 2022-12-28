@@ -12,6 +12,7 @@ namespace ConsoleApp9
         static void Main(string[] args)
         {
             //COMENTARIO EN MASTER
+            //  COMENTARIO RAMA1
             // Se configura la ventana
             Console.SetWindowSize(60, 20);
             Console.SetBufferSize(60, 20);
