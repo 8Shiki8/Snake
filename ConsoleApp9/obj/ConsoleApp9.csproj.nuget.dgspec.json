@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\05_GitRepo\\Snake\\ConsoleApp9\\ConsoleApp9.csproj": {}
+    "d:\\05_GitRepo\\Snake\\ConsoleApp9\\ConsoleApp9.csproj": {}
   },
   "projects": {
-    "D:\\05_GitRepo\\Snake\\ConsoleApp9\\ConsoleApp9.csproj": {
+    "d:\\05_GitRepo\\Snake\\ConsoleApp9\\ConsoleApp9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\05_GitRepo\\Snake\\ConsoleApp9\\ConsoleApp9.csproj",
+        "projectUniqueName": "d:\\05_GitRepo\\Snake\\ConsoleApp9\\ConsoleApp9.csproj",
         "projectName": "ConsoleApp9",
-        "projectPath": "D:\\05_GitRepo\\Snake\\ConsoleApp9\\ConsoleApp9.csproj",
+        "projectPath": "d:\\05_GitRepo\\Snake\\ConsoleApp9\\ConsoleApp9.csproj",
         "packagesPath": "C:\\Users\\Shiki\\.nuget\\packages\\",
-        "outputPath": "D:\\05_GitRepo\\Snake\\ConsoleApp9\\obj\\",
+        "outputPath": "d:\\05_GitRepo\\Snake\\ConsoleApp9\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\01 Archivos de Programas 2\\CacheVS2019\\NuGetPackages"
