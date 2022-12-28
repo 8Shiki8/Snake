@@ -1,0 +1,14 @@
+E:\Practicas\C-SHARP\Juego4\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.exe
+E:\Practicas\C-SHARP\Juego4\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.deps.json
+E:\Practicas\C-SHARP\Juego4\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.runtimeconfig.json
+E:\Practicas\C-SHARP\Juego4\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.runtimeconfig.dev.json
+E:\Practicas\C-SHARP\Juego4\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.dll
+E:\Practicas\C-SHARP\Juego4\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.pdb
+E:\Practicas\C-SHARP\Juego4\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.csproj.AssemblyReference.cache
+E:\Practicas\C-SHARP\Juego4\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practicas\C-SHARP\Juego4\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.AssemblyInfoInputs.cache
+E:\Practicas\C-SHARP\Juego4\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.AssemblyInfo.cs
+E:\Practicas\C-SHARP\Juego4\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.csproj.CoreCompileInputs.cache
+E:\Practicas\C-SHARP\Juego4\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.dll
+E:\Practicas\C-SHARP\Juego4\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.pdb
+E:\Practicas\C-SHARP\Juego4\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.genruntimeconfig.cache
