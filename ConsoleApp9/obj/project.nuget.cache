@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H4piNAg7BYeunkGGeoEsPxwEI3UBUC3YahVTLltie/uOBZ7XM6hOKsgg6weaRPkJb4buJBBIsTZf5TqkmD1JpA==",
+  "dgSpecHash": "YfKT5llUJbxg/hnNnr2WMsFVepA465QwSf7CRm5LauWlAxuHF8UUwYk3IIhWmFSnMB9q3g5kB5HrZ0N5aTFD9Q==",
   "success": true,
-  "projectFilePath": "e:\\Practicas\\C-SHARP\\Juego4\\ConsoleApp9\\ConsoleApp9.csproj",
+  "projectFilePath": "D:\\05_GitRepo\\Snake\\ConsoleApp9\\ConsoleApp9.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

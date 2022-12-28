@@ -11,6 +11,7 @@ namespace ConsoleApp9
         public static ConsoleKeyInfo tecla;
         static void Main(string[] args)
         {
+            //  COMENTARIO RAMA1
             // Se configura la ventana
             Console.SetWindowSize(60, 20);
             Console.SetBufferSize(60, 20);
