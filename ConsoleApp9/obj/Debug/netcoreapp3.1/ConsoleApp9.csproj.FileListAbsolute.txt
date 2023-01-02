@@ -12,3 +12,17 @@ E:\Practicas\C-SHARP\Juego4\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.cspr
 E:\Practicas\C-SHARP\Juego4\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.dll
 E:\Practicas\C-SHARP\Juego4\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.pdb
 E:\Practicas\C-SHARP\Juego4\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.genruntimeconfig.cache
+d:\05_GitRepo\Snake\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.exe
+d:\05_GitRepo\Snake\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.deps.json
+d:\05_GitRepo\Snake\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.runtimeconfig.json
+d:\05_GitRepo\Snake\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.runtimeconfig.dev.json
+d:\05_GitRepo\Snake\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.dll
+d:\05_GitRepo\Snake\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.pdb
+d:\05_GitRepo\Snake\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.csproj.AssemblyReference.cache
+d:\05_GitRepo\Snake\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.GeneratedMSBuildEditorConfig.editorconfig
+d:\05_GitRepo\Snake\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.AssemblyInfoInputs.cache
+d:\05_GitRepo\Snake\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.AssemblyInfo.cs
+d:\05_GitRepo\Snake\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.csproj.CoreCompileInputs.cache
+d:\05_GitRepo\Snake\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.dll
+d:\05_GitRepo\Snake\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.pdb
+d:\05_GitRepo\Snake\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.genruntimeconfig.cache
